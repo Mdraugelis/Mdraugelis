@@ -1,7 +1,7 @@
 # Mike Draugelis
 
 Building simulation and causal-inference tooling for healthcare AI.
-AVP of AI at [Geisinger Health System](https://www.geisinger.org/). Previously Chief Data Scientist at Penn Medicine.
+VP of AI at [Geisinger Health System](https://www.geisinger.org/). Previously Chief Data Scientist at Penn Medicine.
 
 ---
 
