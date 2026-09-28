@@ -32,7 +32,6 @@ Now at Geisinger, leading an AI department across governance, delivery, and plat
 ## Selected publications & press
 
 - Weissman, Crane-Droesch, Chivers, Luong, Hanish, Levy, Lubken, Becker, Draugelis, et al. *Locally Informed Simulation to Predict Hospital Capacity Needs During the COVID-19 Pandemic.* Annals of Internal Medicine, 2020. [[paper]](https://www.acpjournals.org/doi/10.7326/M20-1260)
-- Penn Medicine Predictive Healthcare — [publications and press archive](http://predictivehealthcare.pennmedicine.org/press-publications/)
 
 ## Elsewhere
 
